@@ -1,2 +1,2 @@
-# drafter-deployment-template-v1
-Your first Drafter website!
+# Drafter Calculator 
+A simple calculator implemented with Drafter
