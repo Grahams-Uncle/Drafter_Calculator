@@ -6,6 +6,13 @@ from dataclasses import dataclass
 
 hide_debug_information()
 set_website_title("Drafter Calculator")
+set_site_information(
+    author="Chuck Xiong",
+    description="A simple Drafter Calculator",
+    sources="ChatGPT",
+    planning=[],
+    links=["https://github.com/Grahams-Uncle/Drafter_Calculator"]
+)
 set_website_framed(False)
 set_website_style("xp")
 
